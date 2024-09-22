@@ -8,7 +8,8 @@
         "updateType": "incompatible",
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/collection/mym2ym6z"
+                "modrinth": "https://modrinth.com/collection/mym2ym6z/",
+                "generic": "https://github.com/jacopobono8/Earth-Quartz/"
             }
         }
     }
