@@ -98,6 +98,7 @@ Cartella 5:
     Configured 2.2.3
     Controlling 12.0.2 (client)
     Global Packs 1.16.2
+    Modpack Update Checker 0.15.2 (client-?)
     Mouse Tweaks 2.25.1 (client)
     Not Enough Animations 1.7.4 (client)
     Polymorph 0.49.5
