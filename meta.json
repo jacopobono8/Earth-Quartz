@@ -12,6 +12,17 @@
                 "generic": "https://github.com/jacopobono8/Earth-Quartz/"
             }
         }
+    },
+    {
+        "id": "beta2",
+        "releasedAt": 1727533428480,
+        "updateType": "incompatible",
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/collection/mym2ym6z/",
+                "generic": "https://github.com/jacopobono8/Earth-Quartz/"
+            }
+        }
     }
   ]
 }
