@@ -23,6 +23,17 @@
                 "generic": "https://github.com/jacopobono8/Earth-Quartz/"
             }
         }
+    },
+    {
+        "id": "1.0.0",
+        "releasedAt": ,
+        "updateType": "major",
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/collection/mym2ym6z/",
+                "generic": "https://github.com/jacopobono8/Earth-Quartz/"
+            }
+        }
     }
   ]
 }
