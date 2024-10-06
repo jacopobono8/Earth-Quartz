@@ -1,2 +1,2 @@
 # Earth-Quartz
-Modpack updater for Earth&amp;Quartz.
+Modpack updater for Earth&Quartz.
